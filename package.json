@@ -1,7 +1,7 @@
 {
   "name": "reactstart",
   "version": "1.0.0",
-  "description": "No description yet",
+  "description": "Base reactjs app, with webpack dev/build and yarn configuration",
   "main": "index.js",
   "repository": "https://github.com/jakubbaron/reactstart.git",
   "author": "Jakub Baron <jakubaron@gmail.com>",
